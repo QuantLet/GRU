@@ -1,1 +1,11 @@
+Name of QuantLet: 'Bitcoin Trading'
 
+Published in: GRU
+
+Description: 'Gated Recurrent Unit (GRU) application for Bitcoin price movement prediction'
+
+Keywords: GRU, bitcoin, trading, stop loss
+
+Author: Rahul Tak and Wolfgang Karl Haerdle
+
+Submitted: 'Tuesday, 10 June 2025'
