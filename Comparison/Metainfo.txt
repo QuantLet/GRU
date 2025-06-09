@@ -1,1 +1,11 @@
+Name of QuantLet: 'Comparison'
 
+Published in: Quantlet
+
+Description: 'Comparing the performance of RNN, LSTM and GRU for sequence modeling task for time series wiith long and short term dependencies'
+
+Keywords: RNN, GRU, LSTM, modeling, performance
+
+Author: Rahul Tak and Wolfgang Karl Haerdle
+
+Submitted: 'Tuesday, 10 June 2025'
