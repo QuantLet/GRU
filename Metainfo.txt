@@ -1,1 +1,11 @@
+Name of QuantLet: 'GRU'
 
+Published in: Quantlet
+
+Description: 'Gated Recurrent Unit (GRU) application for sequence modeling'
+
+Keywords: RNN, GRU, sequence modeling, forecasting
+
+Author: Rahul Tak and Wolfgang Karl Haerdle
+
+Submitted: 'Tuesday, 10 June 2025'
